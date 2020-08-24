@@ -38,3 +38,7 @@
 .table tbody tr:hover:not(:first-child) {
     border: 2px #007bff solid;
 }
+
+.alert {
+    margin-top: 1rem;
+}

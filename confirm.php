@@ -57,8 +57,8 @@
         echo "</table>";
         echo "<form action='add.php' method='POST'><input value='confirm' name='confirm' hidden/><button class='btn btn-primary' type='submit'>Утвердить</button></form>";
     } else {
-        echo '<div class="row justify-content-center ">
-                    <div class="col-10 text-center">
+        echo '<div class="container">
+                    <div class="text-center alert alert-danger">
                     <p>Нет данных.</p>
                     </div>
               </div>';
