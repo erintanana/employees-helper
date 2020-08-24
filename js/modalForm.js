@@ -28,3 +28,5 @@ function onSubmitAddPersonForm() {
         }
     });
 }
+
+function kek() {}
