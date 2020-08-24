@@ -1,0 +1,40 @@
+.btn {
+    margin: 5px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .active {
+    color: midnightblue;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.modal .modal_content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: fit-content;
+}
+
+.modal .modal_content .modal-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.table tbody tr:hover:not(:first-child) {
+    border: 2px #007bff solid;
+}

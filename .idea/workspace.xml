@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a67f94b-f45e-410a-8aa7-09f90441227f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1faTMvqyNcFWGlHtPrWUYzbGUWL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uit32\Downloads\OpenServer\domains\testProject" />
+      <recent name="C:\Users\uit32\Downloads\OpenServer\domains\testProject\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a67f94b-f45e-410a-8aa7-09f90441227f" name="Default Changelist" comment="" />
+      <created>1596455160850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596455160850</updated>
+      <workItem from="1596455162915" duration="198000" />
+      <workItem from="1596455406177" duration="661000" />
+      <workItem from="1596456116719" duration="1825000" />
+      <workItem from="1596458615985" duration="1706000" />
+      <workItem from="1596517048976" duration="2197000" />
+      <workItem from="1596520392690" duration="21233000" />
+      <workItem from="1596603422118" duration="26400000" />
+      <workItem from="1596689799626" duration="15557000" />
+      <workItem from="1596713800346" duration="5629000" />
+      <workItem from="1596776242251" duration="13711000" />
+      <workItem from="1596790421024" duration="9366000" />
+      <workItem from="1596806730124" duration="100000" />
+      <workItem from="1597036803559" duration="730000" />
+      <workItem from="1597037835878" duration="11316000" />
+      <workItem from="1597123141442" duration="14656000" />
+      <workItem from="1597207861671" duration="18332000" />
+      <workItem from="1597294659769" duration="17446000" />
+      <workItem from="1597381072349" duration="10375000" />
+      <workItem from="1597640431464" duration="16256000" />
+      <workItem from="1597726587812" duration="4647000" />
+      <workItem from="1597985849540" duration="25258000" />
+      <workItem from="1598013341186" duration="3034000" />
+      <workItem from="1598244990915" duration="13754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1596458663218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1596458663218" />
+    <state x="714" y="343" key="#Notifications" timestamp="1598265013309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1598265013309" />
+    <state x="667" y="162" key="#PHP" timestamp="1596458675432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="162" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1596458675432" />
+    <state x="735" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596455444795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596455444795" />
+    <state x="707" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598010014220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598010014220" />
+    <state x="837" y="417" key="Github.ShareDialog" timestamp="1598264999684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598264999684" />
+    <state x="812" y="446" key="NewPhpFileDialog" timestamp="1597641694360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597641694360" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1597221024806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597221024806" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596789084172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596789084172" />
+  </component>
+</project>
