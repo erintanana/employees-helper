@@ -11,15 +11,15 @@ closeModalForm.onclick = function () {
 }
 
 function onSubmitAddPersonForm() {
-    const form = document.getElementById("addPersonForm");
-    var form_data = new FormData(form);
+    const addPersonForm = document.getElementById("addPersonForm");
+    const addPersonFormData = new FormData(addPersonForm);
     $.ajax({
         url: "add.php",
         type: "POST",
         dataType: "text",
         contentType: false,
         processData: false,
-        data: form_data,
+        data: addPersonFormData,
         success: function (response) {
 
         },
@@ -28,5 +28,3 @@ function onSubmitAddPersonForm() {
         }
     });
 }
-
-function kek() {}
